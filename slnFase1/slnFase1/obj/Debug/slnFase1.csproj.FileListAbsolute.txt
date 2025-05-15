@@ -1,0 +1,7 @@
+C:\DATOS\BITBUCKET\RODRIX BUSSINES\DAVID\slnFase1\slnFase1\bin\Debug\slnFase1.exe.config
+C:\DATOS\BITBUCKET\RODRIX BUSSINES\DAVID\slnFase1\slnFase1\bin\Debug\slnFase1.exe
+C:\DATOS\BITBUCKET\RODRIX BUSSINES\DAVID\slnFase1\slnFase1\bin\Debug\slnFase1.pdb
+C:\DATOS\BITBUCKET\RODRIX BUSSINES\DAVID\slnFase1\slnFase1\obj\Debug\slnFase1.csprojAssemblyReference.cache
+C:\DATOS\BITBUCKET\RODRIX BUSSINES\DAVID\slnFase1\slnFase1\obj\Debug\slnFase1.csproj.CoreCompileInputs.cache
+C:\DATOS\BITBUCKET\RODRIX BUSSINES\DAVID\slnFase1\slnFase1\obj\Debug\slnFase1.exe
+C:\DATOS\BITBUCKET\RODRIX BUSSINES\DAVID\slnFase1\slnFase1\obj\Debug\slnFase1.pdb
