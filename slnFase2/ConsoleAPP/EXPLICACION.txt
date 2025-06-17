@@ -1,0 +1,56 @@
+﻿PROGRAMACIÓN ORIENTADA A OBJETOS:
+
+CLASES --> COMO UN PATRÓN, CON EL CUAL VAMOS A MDOELAR LOS OBJETOS DEL MUNDO REAL, EN ESTE CASO EL DOMINIO
+        DE NUESTRO PROBLEMA A RESOLVER.
+
+		Una clase estña formada por propiedadesw y métodos
+
+		¿Qué es una propiedad?
+		Son las características que hacen único al objeto en cuestión, mediante sus atributos, es decir
+
+		clase Persona {
+			
+			-- PROPIEDADES
+			string _colorDeOjos {get; private set;}
+			decimal _altura {get;set;}
+			decimal _peso {get;set;}
+			stirng _colorPiel {get;set;}
+			int _posicionX {get;set;}
+			int _posicionY {get;set;}
+
+			-- MÉTODOS
+			public Persona(){
+				altura=0;
+				peso=0;
+
+			}
+			
+			public Persona(string colorDeOjos, string colorDePiel){
+				_colorDeOjos=colorDeOjos;
+				_colorDePiel=colorDePîel;
+
+			}
+
+			public void caminar(int x, int y){
+				posicionx= x;
+				posiciony= y;
+
+			} 
+			
+		}
+
+		
+		Persona rodrigo= new Persona(negro,moreno);
+		
+		rodrigo._colorDeOjos="azul"; --> no estaría permitido 
+		rodrigo._colorDePiel="caucasico";
+		rodrigo._altura=1.71;
+
+		
+		console.wirteline("El color de ojos de rodrigo es: " + rodrigo._colorDeOJos)
+
+
+
+
+PRINCIPIOS DE LA POO
+ - ENCAPSULAMIENTO --> VER CLASE CuentaBancaria
