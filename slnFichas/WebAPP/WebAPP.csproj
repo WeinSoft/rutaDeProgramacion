@@ -397,6 +397,8 @@
       <DependentUpon>Site.Mobile.Master</DependentUpon>
     </Compile>
     <Compile Include="Startup.cs" />
+    <Compile Include="Tipos\Enumeraciones.cs" />
+    <Compile Include="Tipos\Resultado.cs" />
     <Compile Include="UserCase\EntidadUserCase.cs" />
     <Compile Include="UserCase\GatoUserCase.cs" />
     <Compile Include="ViewSwitcher.ascx.cs">

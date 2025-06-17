@@ -19,10 +19,31 @@
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
             <p>
+                
                 <asp:Button ID="btnCreateEntidad" runat="server" 
                     Text="Crear Entidad" OnClick="btnCreateEntidad_Click" />
+            
             </p>
         </div>
+        <p>
+            <asp:Button ID="btnRead" runat="server" 
+                    Text="LEER" OnClick="btnRead_Click" />
+
+        </p>
+        <p>
+            <asp:Button ID="btnActualizar" runat="server" 
+                    Text="Actualizar" OnClick="btnActualizar_Click" />
+
+        </p>
+        <p>
+            <asp:Button ID="btnDelete" runat="server" 
+                    Text="Eliminar" OnClick="btnDelete_Click" />
+
+        </p>
+        <p>
+            <asp:Label ID="lblResultado" runat="server" Visible="true" Text="Etiqueta resultado"></asp:Label>
+
+        </p>
         <div class="col-md-4">
             <h2>Get more libraries</h2>
             <p>
